@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"/>
 </div>
 
-## 🇻🇳 THÔNG TIN CÁ NHÂN - PERSONAL INFO 🇻🇳
+## 🇻🇳 THÔNG TIN CÁ NHÂN -  INFO 🇻🇳
 
 <div align="center">
   <table>
